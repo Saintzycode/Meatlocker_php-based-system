@@ -53,12 +53,6 @@ This project is fully open-source. Modify, improve, or use it freely.
 
 ---
 
-If you want, I can also generate:
+# 🔧 Installation Guide
 
-- A darker themed README  
-- README with images and icons  
-- README with installation GIF  
-- README with shields.io badges  
-- README with database ERD diagram  
-
-Just tell me what style you prefer.
+### 1. Clone the project 

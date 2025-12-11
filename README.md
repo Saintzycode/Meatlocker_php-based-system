@@ -56,3 +56,4 @@ This project is fully open-source. Modify, improve, or use it freely.
 # 🔧 Installation Guide
 
 ### 1. Clone the project 
+https://github.com/Saintzycode/Meatlocker_php-based-system.git

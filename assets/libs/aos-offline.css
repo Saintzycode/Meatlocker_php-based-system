@@ -1,0 +1,10 @@
+/* Minimal AOS fallback for offline use */
+.aos-init,
+.aos-animate {
+    opacity: 1;
+    transform: translate(0) scale(1);
+}
+
+[data-aos] {
+    opacity: 1;
+}

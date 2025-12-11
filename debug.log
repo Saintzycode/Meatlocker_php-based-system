@@ -1,0 +1,80 @@
+=== ORDER PROCESSING 2025-12-11 09:35:12 ===
+Cart received: [{"id":"1","name":"Premium Ribeye Steak","price":"599.99","image":"images\/premium-ribeye-steak.jpg","quantity":1}]
+OrderHandler: Processing order with 1 items
+Available products: ["Premium Ribeye Steak","Wild Caught Salmon","Organic Chicken Breast","Jumbo Shrimp","Premium Wagyu Beef","Premium Duck Breast","Fresh Lobster Tail","Premium Scallops"]
+Processing item ID: 1, name: 'Premium Ribeye Steak', quantity: 1
+Found product: Premium Ribeye Steak, current stock: 11
+SUCCESS: Updated stock for 'Premium Ribeye Steak': 11 -> 10
+ORDER PROCESSING COMPLETE - All items processed successfully
+Result: {"success":true,"message":"Order processed successfully"}
+
+=== ORDER PROCESSING 2025-12-11 09:35:24 ===
+Cart received: [{"id":"2","name":"Wild Caught Salmon","price":"299.99","image":"images\/wild-caught-salmon.jpg","quantity":1}]
+OrderHandler: Processing order with 1 items
+Available products: ["Premium Ribeye Steak","Wild Caught Salmon","Organic Chicken Breast","Jumbo Shrimp","Premium Wagyu Beef","Premium Duck Breast","Fresh Lobster Tail","Premium Scallops"]
+Processing item ID: 2, name: 'Wild Caught Salmon', quantity: 1
+Found product: Wild Caught Salmon, current stock: 16
+SUCCESS: Updated stock for 'Wild Caught Salmon': 16 -> 15
+ORDER PROCESSING COMPLETE - All items processed successfully
+Result: {"success":true,"message":"Order processed successfully"}
+
+=== ORDER PROCESSING 2025-12-11 09:37:42 ===
+Cart received: [{"id":"3","name":"Organic Chicken Breast","price":"259.99","image":"images\/organic-chicken-breast.jpg","quantity":1},{"id":"4","name":"Jumbo Shrimp","price":"399.99","image":"images\/jumbo-shrimp.jpg","quantity":1},{"id":"6","name":"Premium Duck Breast","price":"450","image":"images\/premium-duck-breast.jpg","quantity":1}]
+OrderHandler: Processing order with 3 items
+Available products: ["Premium Ribeye Steak","Wild Caught Salmon","Organic Chicken Breast","Jumbo Shrimp","Premium Wagyu Beef","Premium Duck Breast","Fresh Lobster Tail","Premium Scallops"]
+Processing item ID: 3, name: 'Organic Chicken Breast', quantity: 1
+Found product: Organic Chicken Breast, current stock: 26
+SUCCESS: Updated stock for 'Organic Chicken Breast': 26 -> 25
+Processing item ID: 4, name: 'Jumbo Shrimp', quantity: 1
+Found product: Jumbo Shrimp, current stock: 16
+SUCCESS: Updated stock for 'Jumbo Shrimp': 16 -> 15
+Processing item ID: 6, name: 'Premium Duck Breast', quantity: 1
+Found product: Premium Duck Breast, current stock: 11
+SUCCESS: Updated stock for 'Premium Duck Breast': 11 -> 10
+ORDER PROCESSING COMPLETE - All items processed successfully
+Result: {"success":true,"message":"Order processed successfully"}
+
+=== ORDER PROCESSING 2025-12-11 13:26:38 ===
+Cart received: [{"id":"9","name":"Sweet Potato Fries","price":"999.99","image":"images\/product_1765455976_a703c2cad9c1b8f0.jpg","quantity":1}]
+OrderHandler: Processing order with 1 items
+Available products: ["Premium Ribeye Steak","Wild Caught Salmon","Organic Chicken Breast","Jumbo Shrimp","Premium Wagyu Beef","Premium Duck Breast","Fresh Lobster Tail","Premium Scallops","Sweet Potato Fries"]
+Processing item ID: 9, name: 'Sweet Potato Fries', quantity: 1
+Found product: Sweet Potato Fries, current stock: 30
+SUCCESS: Updated stock for 'Sweet Potato Fries': 30 -> 29
+ORDER PROCESSING COMPLETE - All items processed successfully
+Result: {"success":true,"message":"Order processed successfully"}
+
+=== ORDER PROCESSING 2025-12-11 14:00:48 ===
+Cart received: [{"id":"9","name":"Sweet Potato Fries","price":"999.99","image":"images\/product_1765455976_a703c2cad9c1b8f0.jpg","quantity":1},{"id":"8","name":"Premium Scallops","price":"459.99","image":"images\/premium-scallops.jpg","quantity":1},{"id":"7","name":"Fresh Lobster Tail","price":"699.99","image":"images\/fresh-lobster-tail.jpg","quantity":1},{"id":"6","name":"Premium Duck Breast","price":"450","image":"images\/premium-duck-breast.jpg","quantity":1},{"id":"5","name":"Premium Wagyu Beef","price":"999.99","image":"images\/premium-wagyu-beef.jpg","quantity":1},{"id":"4","name":"Jumbo Shrimp","price":"399.99","image":"images\/jumbo-shrimp.jpg","quantity":1},{"id":"1","name":"Premium Ribeye Steak","price":"599.99","image":"images\/premium-ribeye-steak.jpg","quantity":1},{"id":"2","name":"Wild Caught Salmon","price":"299.99","image":"images\/wild-caught-salmon.jpg","quantity":1},{"id":"3","name":"Organic Chicken Breast","price":"259.99","image":"images\/organic-chicken-breast.jpg","quantity":1}]
+OrderHandler: Processing order with 9 items
+Available products: ["Premium Ribeye Steak","Wild Caught Salmon","Organic Chicken Breast","Jumbo Shrimp","Premium Wagyu Beef","Premium Duck Breast","Fresh Lobster Tail","Premium Scallops","Sweet Potato Fries"]
+Processing item ID: 9, name: 'Sweet Potato Fries', quantity: 1
+Found product: Sweet Potato Fries, current stock: 30
+SUCCESS: Updated stock for 'Sweet Potato Fries': 30 -> 29
+Processing item ID: 8, name: 'Premium Scallops', quantity: 1
+Found product: Premium Scallops, current stock: 30
+SUCCESS: Updated stock for 'Premium Scallops': 30 -> 29
+Processing item ID: 7, name: 'Fresh Lobster Tail', quantity: 1
+Found product: Fresh Lobster Tail, current stock: 30
+SUCCESS: Updated stock for 'Fresh Lobster Tail': 30 -> 29
+Processing item ID: 6, name: 'Premium Duck Breast', quantity: 1
+Found product: Premium Duck Breast, current stock: 30
+SUCCESS: Updated stock for 'Premium Duck Breast': 30 -> 29
+Processing item ID: 5, name: 'Premium Wagyu Beef', quantity: 1
+Found product: Premium Wagyu Beef, current stock: 30
+SUCCESS: Updated stock for 'Premium Wagyu Beef': 30 -> 29
+Processing item ID: 4, name: 'Jumbo Shrimp', quantity: 1
+Found product: Jumbo Shrimp, current stock: 30
+SUCCESS: Updated stock for 'Jumbo Shrimp': 30 -> 29
+Processing item ID: 1, name: 'Premium Ribeye Steak', quantity: 1
+Found product: Premium Ribeye Steak, current stock: 30
+SUCCESS: Updated stock for 'Premium Ribeye Steak': 30 -> 29
+Processing item ID: 2, name: 'Wild Caught Salmon', quantity: 1
+Found product: Wild Caught Salmon, current stock: 30
+SUCCESS: Updated stock for 'Wild Caught Salmon': 30 -> 29
+Processing item ID: 3, name: 'Organic Chicken Breast', quantity: 1
+Found product: Organic Chicken Breast, current stock: 30
+SUCCESS: Updated stock for 'Organic Chicken Breast': 30 -> 29
+ORDER PROCESSING COMPLETE - All items processed successfully
+Result: {"success":true,"message":"Order processed successfully"}
+

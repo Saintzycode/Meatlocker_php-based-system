@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$12$8t2YPhXNZncYR8UJxQAJB.9bbwI8H3RJ79.zv/nlPP5XJzvfo5fp6",
+        "email": "admin@meatlocker.com",
+        "role": "admin",
+        "created_at": "2025-01-01"
+    },
+    {
+        "id": 2,
+        "username": "customer",
+        "password": "$2y$12$8t2YPhXNZncYR8UJxQAJB.9bbwI8H3RJ79.zv/nlPP5XJzvfo5fp6",
+        "email": "customer@meatlocker.com",
+        "role": "customer",
+        "created_at": "2025-01-02"
+    },
+    {
+        "id": 3,
+        "username": "haruto",
+        "email": "ralphyadao2136@gmail.com",
+        "password": "$2y$10$n/N0pLVPef6L/DCSeCiFvOn/m6u0c2lYb0RfVRizrB2uvR/4OzanG",
+        "role": "customer",
+        "created_at": "2025-11-14"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Premium Ribeye Steak",
+        "weight": "kg",
+        "price": 599.99,
+        "stock": 30,
+        "category": "Beef",
+        "description": "Grade A premium cut",
+        "image": "premium-ribeye-steak.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Wild Caught Salmon",
+        "weight": "kg",
+        "price": 299.99,
+        "stock": 29,
+        "category": "Seafood",
+        "description": "Rich in omega-3",
+        "image": "wild-caught-salmon.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Organic Chicken Breast",
+        "weight": "kg",
+        "price": 259.99,
+        "stock": 29,
+        "category": "Poultry",
+        "description": "Free-range, hormone-free",
+        "image": "organic-chicken-breast.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jumbo Shrimp",
+        "weight": "kg",
+        "price": 399.99,
+        "stock": 29,
+        "category": "Seafood",
+        "description": "Large, succulent",
+        "image": "jumbo-shrimp.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Premium Wagyu Beef",
+        "weight": "kg",
+        "price": 999.99,
+        "stock": 29,
+        "category": "Beef",
+        "description": "Japanese A5 grade",
+        "image": "premium-wagyu-beef.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Premium Duck Breast",
+        "weight": "g",
+        "price": 450,
+        "stock": 29,
+        "category": "Poultry",
+        "description": "Succulent duck breast",
+        "image": "premium-duck-breast.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Fresh Lobster Tail",
+        "weight": "kg",
+        "price": 699.99,
+        "stock": 29,
+        "category": "Seafood",
+        "description": "Live lobster, Sweet tender meat",
+        "image": "fresh-lobster-tail.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Premium Scallops",
+        "weight": "kg",
+        "price": 459.99,
+        "stock": 29,
+        "category": "Seafood",
+        "description": "Diver-harvested, Delicate and buttery",
+        "image": "premium-scallops.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sweet Potato Fries",
+        "weight": "kg",
+        "price": 999.99,
+        "stock": 29,
+        "category": "Poultry",
+        "description": "Crunchy on the Outside, Soft on the Inside",
+        "image": "product_1765455976_a703c2cad9c1b8f0.jpg"
+    }
+]

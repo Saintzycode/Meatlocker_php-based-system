@@ -1,92 +1,64 @@
-Meatlocker
+# 🥩 MEATLOCKER  
+### A Modern PHP-Based Inventory & Order Management System
 
-A PHP-based inventory and order management system for meat products.
+Meatlocker is a streamlined web platform designed for managing meat products, inventory, orders, and user accounts. Built with PHP and MySQL, the system serves both **administrators** and **customers**, ensuring smooth business operations and real-time stock tracking.
 
-Overview
+---
 
-Meatlocker is a web application designed to help administrators and customers manage meat product transactions efficiently. It provides an admin dashboard for handling product inventory, order processing, stock updates, profit monitoring, and user account management. The system ensures that the platform remains updated, accurate, and ready for daily business operations.
+## 🚀 Features
 
-Features
-Administrator Features
+### 🔐 Administrator
+- Add, update, and delete products  
+- Manage inventory and stock levels  
+- Process customer orders  
+- Track daily / weekly / monthly profits  
+- Manage user accounts  
+- Access a clean and intuitive dashboard  
 
-Add, update, and remove meat products
+### 🛒 Customer
+- Register and log in  
+- Browse meat products  
+- Add items to cart  
+- Place orders  
+- Track order status  
+- View order history  
 
-Manage product inventory and stock levels
+---
 
-Process and review customer orders
+## 🧱 System Tech Stack
 
-Update stock after purchases
+| Layer | Technology |
+|------|------------|
+| Backend | PHP (OOP) |
+| Database | MySQL |
+| Frontend | HTML, CSS, JavaScript |
+| Server | Apache (XAMPP / WAMP / LAMP) |
+| Version Control | Git |
 
-Monitor daily, weekly, and monthly profits
-
-Manage user accounts and permissions
-
-Access an admin dashboard displaying KPIs and system metrics
-
-Customer Features
-
-Register and log in
-
-Browse available meat products
-
-Add products to cart
-
-Place orders and track order status
-
-View order history
-
-System Architecture
-1. Technologies Used
-
-Backend: PHP (Core + OOP)
-
-Frontend: HTML, CSS, JavaScript
-
-Database: MySQL
-
-Server Environment: XAMPP / WAMP / LAMP
-
-Version Control: Git
-/meatlocker
-│── /config
-│     └── database.php
-│── /classes
-│     ├── Product.php
-│     ├── User.php
-│     ├── Order.php
-│     └── Admin.php
-│── /controllers
-│     ├── productController.php
-│     ├── orderController.php
-│     └── userController.php
-│── /views
-│     ├── admin/
-│     ├── customer/
-│     └── shared/
-│── /public
-│     ├── css/
-│     ├── js/
-│     └── images/
-│── index.php
-└── README.md
-Installation
-Requirements
-PHP 8+
-MySQL 5.7+
-Apache server (XAMPP/WAMP/LAMP)
-
-Steps
-
-Clone the repository
-
-git clone https://github.com/yourusername/meatlocker.git
+---
 
 
-Import the SQL file into MySQL
+---
 
-Configure database settings in /config/database.php
+# 🌱 Future Improvements
+- Sales analytics dashboard  
+- Role-based access control  
+- Notifications for order updates  
+- Barcode support for inventory  
 
-Run the project via Apache server
+---
 
-Access the system through
-http://localhost/meatlocker/
+# 📜 License
+This project is fully open-source. Modify, improve, or use it freely.
+
+---
+
+If you want, I can also generate:
+
+- A darker themed README  
+- README with images and icons  
+- README with installation GIF  
+- README with shields.io badges  
+- README with database ERD diagram  
+
+Just tell me what style you prefer.

@@ -30,7 +30,7 @@ Meatlocker is a streamlined web platform designed for managing meat products, in
 | Layer | Technology |
 |------|------------|
 | Backend | PHP (OOP) |
-| Database | MySQL |
+| Database | JSON |
 | Frontend | HTML, CSS, JavaScript |
 | Server | Apache (XAMPP / WAMP / LAMP) |
 | Version Control | Git |
